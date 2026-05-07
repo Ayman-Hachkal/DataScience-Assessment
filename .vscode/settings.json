@@ -1,0 +1,6 @@
+{
+  "python.defaultInterpreterPath": "/home/ayman/.conda/envs/DataScience/bin/python",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python"
+  }
+}
